@@ -1,0 +1,22 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojtek0126/cypress.git"
+  },
+  "author": "Wojtek Tomaszewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wojtek0126/cypress/issues"
+  },
+  "homepage": "https://github.com/wojtek0126/cypress#readme",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
